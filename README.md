@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://skillicons.dev">
 [![My Skills](https://skillicons.dev/icons?i=js,python)](https://skillicons.dev)
-  </a>
 </p>  
 
 1) **new.log** and **private-keys.log** contain the Ethereum wallet addresses and private keys generated using the Ethereumjs library: ethereumjs-wallet (see https://github.com/ethereumjs/ethereumjs-wallet)
